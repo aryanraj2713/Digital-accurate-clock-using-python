@@ -32,3 +32,9 @@ root.mainloop()
 ```
 $git clone https://github.com/aryanraj2713/ID-card-generator-using-python.git
 ```
+
+## Author
+
+* Aryan Raj
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Aryan Raj](https://www.linkedin.com/in/aryan-raj-3a68b39a/)
