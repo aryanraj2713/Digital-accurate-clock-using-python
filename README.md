@@ -26,4 +26,5 @@ root.mainloop()
 ## By editing source code one can change colour theme of clock
 
 # OUTPUT-
+![clock](https://user-images.githubusercontent.com/75358720/148643831-5ad35b41-169e-4aba-a035-6f22b304b294.jpg)
 
