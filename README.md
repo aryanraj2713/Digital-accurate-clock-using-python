@@ -1,4 +1,6 @@
 # Digital-accurate-clock-using-python
+![DIGITAL CLOCK](https://user-images.githubusercontent.com/75358720/149664390-48d8da76-14f5-41b6-9e3d-c0eac621679b.png)
+
 A beautiful half window clock using python
 
 ```
